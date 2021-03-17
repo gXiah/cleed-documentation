@@ -117,7 +117,7 @@ source
 		- How: to open ports on an instance
 
 	dialogflow: 
-		- MISSING DETAILS: What else is there to know about the box login process
+		- MISSING DETAILS: What else is there to know about dialogflow
 
 	Assistant Chat:
 		- Slack:
