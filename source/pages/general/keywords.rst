@@ -99,9 +99,26 @@ source
 	recomendations: .
 
 	databases:
+		- access:
+			- Where: are the databased located at
+			- How: to access the databases
 		- store products:
+			- How: products are stored (fields, client customizations ?, ...)
+		- store configuration:
+			- What: is a store configuration
+			- How: to access it
+			- How: to correctly download JSONs and reupload them
 
-	dialogflow: .
+	AWS:
+		- How: to access the AWS console
+		- How: to turn an instance ON / Off
+		- How: to swtich between regions
+		- How: to open ports on an instance
+
+	dialogflow: 
+		- MISSING DETAILS: What else is there to know about the box login process
 
 	Assistant Chat:
 		- Slack:
+			- How: to create a new user for a client
+			- Where: is the code that manages Slack communications
