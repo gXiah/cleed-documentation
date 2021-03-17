@@ -57,6 +57,7 @@ source
 		- What: is the admin panel
 		- Where: is the code
 		- How: to access it
+		- How: create a new store account
 		- MISSING DETAILS: What else is there to know about admin
 
 	matomo:
@@ -122,3 +123,34 @@ source
 		- Slack:
 			- How: to create a new user for a client
 			- Where: is the code that manages Slack communications
+
+	workflow:
+		- [ How the team works or should be working ]
+		- [ & How stuff has been organised so far ]
+
+		- Git:
+			- What: workflow is being used
+			- What: are the naming rules of that workflow
+			- How: is the code review being done
+
+		- Tests:
+			- How: is unit testing setup (standards, dates, ...)
+			- How: is functional testing setup (standards, dates, ...)
+			- (If setup) How: is e2e testing setup (standards, dates, ...)
+			- What: tools are being used
+
+		- Technical specs:
+			- How: are technical specs & details being shared
+			- How: are projects described
+			- What: are all the types of documents used for tech specs
+				- Project file
+				- Readme
+				- Manuals
+				- Feature file
+				- Hotfix file
+				- Gantt charts
+				- ...
+
+		- Sprints:
+			- How: are sprints organized
+			- What: tools are being used
