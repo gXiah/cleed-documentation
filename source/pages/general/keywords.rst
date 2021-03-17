@@ -125,8 +125,8 @@ source
 			- Where: is the code that manages Slack communications
 
 	workflow:
-		- [ How the team works or should be working ]
-		- [ & How stuff has been organised so far ]
+		- ( How the team works or should be working )
+		- ( & How stuff has been organised so far )
 
 		- Git:
 			- What: workflow is being used
