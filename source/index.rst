@@ -3,8 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Cleed 101 !
-======================
+Cleed documentation
+===================
+
+.. code-block::
+	Last updated: March 17th, 2021
 
 .. toctree::
    :maxdepth: 2

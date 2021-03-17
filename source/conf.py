@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Cleed 101'
-copyright = '2021, Adam Aquesbi'
-author = 'Cleed'
+copyright = '2021, Cleed'
+author = 'Adam Aquesbi'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'

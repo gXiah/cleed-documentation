@@ -17,23 +17,28 @@ source
 		- What: a step is
 		- Where: steps are stored
 		- How: steps work/ the step proccess works
-		- Activating a set of steps
-		- Modifying steps
-		- Creating new steps
+		- How: to activate a set of steps
+		- How: to modify steps
+		- How: to create new steps
 
-	iframe:
+	box iframe:
 		- What: is the Cleed box iFrame
 		- Where: From where does it get the box application
 		- How: Does the link between the client's website and Cleed's server work
-		- Installing it on a client's website
-		- <script> line
+		- How: does its intallation on a client's website work
+		- What: doest the <script> line do exactly
+		- How: to generate a new <script> line for a client and for a box
+		- How: to deactivate a box for a specific client
+		- How: to deactivate all the boxes
+		- Mobile:
+			- How to deactivate on mobile (all and specific)
 
 	scrapping:
 		- What: the scrapping process does
 		- Where: the scrapper is located
 		- How: the scrapping works
-		- What are the tools being used
-		- How to launch a scrapping process
+		- What: tools are being used
+		- How: to launch a scrapping process
 		- Shopify:
 			- Shopify scrapping
 
@@ -52,7 +57,7 @@ source
 		- What: is the admin panel
 		- Where: is the code
 		- How: to access it
-		- What else is there to know about admin
+		- MISSING DETAILS: What else is there to know about admin
 
 	matomo:
 		- What: is Matomo's role in the box, admin, or other tools
@@ -82,3 +87,21 @@ source
 	deployment:
 		- How: to deploy to production
 		- How: to deploy *only* for one client
+
+	box loging in:
+		- What: what it is
+		- How: how it works
+		- Where: is the code for this feature stored
+		- How: does it link itself to a client's users database
+		- How: to activate it
+		- MISSING DETAILS: What else is there to know about the box login process
+
+	recomendations: .
+
+	databases:
+		- store products:
+
+	dialogflow: .
+
+	Assistant Chat:
+		- Slack:
