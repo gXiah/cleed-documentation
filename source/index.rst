@@ -6,7 +6,12 @@
 Cleed documentation
 ===================
 
+.. image:: https://readthedocs.org/projects/cleed-documentation/badge/?version=latest
+	:target: https://cleed-documentation.readthedocs.io/en/latest/?badge=latest
+	:alt: Documentation Status
+
 .. code-block::
+
 	Last updated: March 17th, 2021
 
 .. toctree::
